@@ -9,3 +9,5 @@ npm install
 ```
 
 - Consume the API from [Postman](https://www.postman.com/)
+### referencias: 
+- Para ver el articulo original [Pagina Oficial](https://www.section.io/engineering-education/documenting-node-js-rest-api-using-swagger/)
